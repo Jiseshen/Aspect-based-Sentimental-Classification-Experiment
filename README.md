@@ -16,9 +16,14 @@ Reference:
 We implemented Dual-MRC and Syntax-based GAT model, which were specifically designed on the task. We introduced some minor improvements, such as the heuristic of extracted aspect terms.
 
 Reference:
+
 Mao, Y., Shen, Y., Yu, C., & Cai, L. (2021). A Joint Training Dual-MRC Framework for Aspect Based Sentiment Analysis. *ArXiv, abs/2101.00816.*
 
 [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://aclanthology.org/2020.acl-main.295) (Wang et al., ACL 2020)
 
 ## Instruction Learning
 We reformatted the training set as examplars prompt, used clustering methods to generate the few-shot examples and tested GPT-3.5 and GPT-4's performance.
+
+Reference:
+
+Scaria, K., Gupta, H., Sawant, S.A., Mishra, S., & Baral, C. (2023). InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. *ArXiv, abs/2302.08624.*
